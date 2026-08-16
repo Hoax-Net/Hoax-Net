@@ -39,7 +39,7 @@ I'm passionate about **cybersecurity, security research, software development, e
 
 ## ⚡ What I Do
 
-| 🔐 C Cybersecurity | 💻 Development | 🧪 Research | 🌐 Community |
+| 🔐  C Cybersecurity | 💻 Development | 🧪 Research | 🌐 Community |
 |:---:|:---:|:---:|:---:|
 | Security Operations | Software Development | Vulnerability Research | Hack Theory |
 | Threat Analysis | Automation | Ethical Hacking | Open Source |
