@@ -1,3 +1,33 @@
+<p align="center">
+  <img src="[BANNER_IMAGE_URL]" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=CYBERSECURITY+OPERATIONS+MANAGER;SECURITY+RESEARCHER;SOFTWARE+DEVELOPER;OPEN+SOURCE+ADVOCATE;WELCOME+TO+HACK+THEORY" alt="Cybersecurity Operations Manager | Security Researcher | Software Developer">
+</p>
+
+<p align="center">
+  <strong>CYBERSECURITY • SOFTWARE • SECURITY OPERATIONS • OPEN SOURCE</strong>
+</p>
+
+<p align="center">
+  <em>17 years of technical experience — simplifying technology in a complicated world.</em>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/Zc8hat6Yhm">
+    <img src="https://img.shields.io/badge/HACK%20THEORY-0B0F19?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Hack Theory">
+  </a>
+  <a href="https://www.youtube.com/@hacktheory1337">
+    <img src="https://img.shields.io/badge/YOUTUBE-0B0F19?style=for-the-badge&logo=youtube&logoColor=FF0033" alt="YouTube">
+  </a>
+  <a href="mailto:mhmyct4i2@mozmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Email">
+  </a>
+</p>
+
+---
+
 Who Am I?
 
 > **blackmagic**  
