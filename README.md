@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[BANNER_IMAGE_URL]" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
+  <img src="[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/HT%20Sharp%20Logo.png" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
 </p>
 
 <p align="center">
@@ -221,8 +221,6 @@ Hack Theory is a place for developers, security enthusiasts, system administrato
 
 ### Discord Widget
 
-GitHub profile README files do not reliably execute arbitrary `<iframe>` widgets. The original widget configuration is preserved below for use on an HTML-supported page:
-
 <!--
 <iframe
   src="https://discordapp.com/widget?id=1138548626491199519&theme=dark"
@@ -371,7 +369,7 @@ The security community becomes stronger when useful information, lessons, and to
 
 ```text
 PUBLIC EMAIL
-└── mhmyct4i2@mozmail.com
+└── 2tynzftes@mozmail.com
 
 COMMUNITY
 └── Hack Theory Discord
