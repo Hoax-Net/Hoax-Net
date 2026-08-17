@@ -499,9 +499,9 @@ Give knowledge back to the community.
 
 Replace these placeholders before publishing:
 
-- `[BANNER_IMAGE_URL]`
-- `[GITHUB_USERNAME]`
-- `[HACK_THEORY_IMAGE_URL]`
+- `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/HT%20Sharp%20Logo.png?raw=true]`
+- `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/purple%20logo.png?raw=true]`
+- `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/ChatGPT%20Image%20Aug%209,%202026,%2006_27_55%20PM.png?raw=true]`
 
 ### Recommended Repository Structure
 
