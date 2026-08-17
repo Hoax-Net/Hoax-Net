@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/HT%20Sharp%20Logo.png" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
+  <img src="[/assets/HT Sharp Logo.png.md" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
 </p>
 
 <p align="center">
@@ -497,7 +497,7 @@ Give knowledge back to the community.
 
 Replace these placeholders before publishing:
 
-- `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/HT%20Sharp%20Logo.png?raw=true]`
+- `/assets/HT Sharp Logo.png?raw=true`
 - `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/purple%20logo.png?raw=true]`
 - `[https://github.com/Hoax-Net/Hoax-Net/blob/main/assets/ChatGPT%20Image%20Aug%209,%202026,%2006_27_55%20PM.png?raw=true]`
 
