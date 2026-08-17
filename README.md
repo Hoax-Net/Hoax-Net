@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[/assets/HT Sharp Logo.png.md" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
+  <img src="[assets/HT Sharp Logo.png" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
 </p>
 
 <p align="center">
