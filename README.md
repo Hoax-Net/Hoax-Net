@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="[BANNER_IMAGE_URL]" alt="Hack Theory — Simplifying Technology in a Complicated World" width="100%">
+  <img src="https://raw.githubusercontent.com/Hoax-Net/Hoax-Net/main/assets/purple%20logo.png" width="130" alt="blackmagic">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=850&height=70&lines=CYBERSECURITY+OPERATIONS+MANAGER;SECURITY+RESEARCHER;SOFTWARE+DEVELOPER;OPEN+SOURCE+ADVOCATE;WELCOME+TO+HACK+THEORY" alt="Cybersecurity Operations Manager | Security Researcher | Software Developer">
-</p>
+<h1 align="center">blackmagic</h1>
 
 <p align="center">
-  <strong>CYBERSECURITY • SOFTWARE • SECURITY OPERATIONS • OPEN SOURCE</strong>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=780&height=44&lines=CYBERSECURITY+OPERATIONS+MANAGER;SECURITY+RESEARCHER;SOFTWARE+DEVELOPER;OPEN+SOURCE+ADVOCATE" alt="Cybersecurity Operations Manager · Security Researcher · Software Developer">
 </p>
 
 <p align="center">
@@ -15,660 +13,377 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/Zc8hat6Yhm">
-    <img src="https://img.shields.io/badge/HACK%20THEORY-0B0F19?style=for-the-badge&logo=discord&logoColor=22D3EE" alt="Hack Theory">
-  </a>
-  <a href="https://www.youtube.com/@hacktheory1337">
-    <img src="https://img.shields.io/badge/YOUTUBE-0B0F19?style=for-the-badge&logo=youtube&logoColor=FF0033" alt="YouTube">
-  </a>
-  <a href="mailto:mhmyct4i2@mozmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0B0F19?style=for-the-badge&logo=maildotru&logoColor=22D3EE" alt="Email">
-  </a>
+  <a href="https://discord.gg/Zc8hat6Yhm"><img src="https://img.shields.io/badge/Join%20the%20Community-7C3AED?style=for-the-badge&logo=discord&logoColor=EDE9FE&labelColor=5B21B6" alt="Join the Discord community"></a>
+  <a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html"><img src="https://img.shields.io/badge/Website-0A0714?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=05040A" alt="Website"></a>
+  <a href="https://www.youtube.com/@hacktheory1337"><img src="https://img.shields.io/badge/YouTube-0A0714?style=for-the-badge&logo=youtube&logoColor=A78BFA&labelColor=05040A" alt="YouTube"></a>
+  <a href="mailto:mhmyct4i2@mozmail.com"><img src="https://img.shields.io/badge/Contact-0A0714?style=for-the-badge&logo=maildotru&logoColor=A78BFA&labelColor=05040A" alt="Contact by email"></a>
 </p>
 
----
+<p align="center">
+  <a href="#profile"><img src="https://img.shields.io/badge/Profile-12101C?style=flat-square&labelColor=12101C" alt="Profile"></a>
+  <a href="#capabilities"><img src="https://img.shields.io/badge/Capabilities-12101C?style=flat-square&labelColor=12101C" alt="Capabilities"></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/Stack-12101C?style=flat-square&labelColor=12101C" alt="Stack"></a>
+  <a href="#security-domains"><img src="https://img.shields.io/badge/Security-12101C?style=flat-square&labelColor=12101C" alt="Security domains"></a>
+  <a href="#systems"><img src="https://img.shields.io/badge/Systems-12101C?style=flat-square&labelColor=12101C" alt="Systems"></a>
+  <a href="#community"><img src="https://img.shields.io/badge/Community-12101C?style=flat-square&labelColor=12101C" alt="Community"></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/Activity-12101C?style=flat-square&labelColor=12101C" alt="Activity"></a>
+  <a href="#contact"><img src="https://img.shields.io/badge/Contact-12101C?style=flat-square&labelColor=12101C" alt="Contact"></a>
+</p>
 
-Who Am I?
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
 
-> **blackmagic**  
-> Cybersecurity Operations Manager • Security Researcher • Software Developer
-
-With **17 years of technical experience**, I've built my career around understanding technology from the inside out — how systems are designed, how applications behave, how infrastructure fails, and how security can be improved. That experience ultimately led me into my career as a **Cybersecurity Operations Manager**, combining technical problem-solving with security operations, incident response, threat awareness, and operational leadership.
-
-I'm passionate about **cybersecurity, software development, ethical security research, automation, open-source projects, and knowledge sharing**. I enjoy taking complicated technical problems and turning them into practical solutions, useful tools, documentation, and learning resources. My work spans defensive and offensive-security concepts, always with an emphasis on **authorized testing, responsible research, education, and improving security**.
-
-> ### `MISSION`
-> **Understand the technology. Understand the threat. Build something better.**
-
----
-# What I Do
+## Profile
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="62%" valign="top">
 
-### 🔐
-## Cybersecurity
+> **blackmagic**
+> Cybersecurity Operations Manager · Security Researcher · Software Developer
 
-Security Operations  
-Incident Response  
-Threat Analysis  
-Security Engineering
+With **17 years of technical experience**, I've built my career around understanding
+technology from the inside out — how systems are designed, how applications behave,
+how infrastructure fails, and how security can be improved.
 
-</td>
-<td width="25%" align="center">
+That experience led into my career as a **Cybersecurity Operations Manager**, combining
+technical problem-solving with security operations, incident response, threat awareness,
+and operational leadership.
 
-### 💻
-## Development
-
-Applications  
-Automation  
-Security Tooling  
-Scripting
+I take complicated technical problems and turn them into practical solutions, useful
+tools, documentation, and learning resources — across defensive and offensive security
+concepts, always with an emphasis on **authorized testing, responsible research, and
+education**.
 
 </td>
-<td width="25%" align="center">
+<td width="38%" valign="top">
 
-### 🧪
-## Research
-
-Vulnerability Research  
-Ethical Hacking  
-Penetration Testing  
-Security Education
-
-</td>
-<td width="25%" align="center">
-
-### 🌐
-## Community
-
-Hack Theory  
-Open Source  
-Knowledge Sharing  
-Collaboration
+<img src="https://img.shields.io/badge/Role-Security%20Operations%20Manager-0A0714?style=for-the-badge&labelColor=5B21B6" alt="Role: Security Operations Manager">
+<img src="https://img.shields.io/badge/Experience-17%20Years-0A0714?style=for-the-badge&labelColor=5B21B6" alt="Experience: 17 years">
+<img src="https://img.shields.io/badge/Focus-Defensive%20%26%20Research-0A0714?style=for-the-badge&labelColor=5B21B6" alt="Focus: defensive and research">
+<img src="https://img.shields.io/badge/Region-Midwest%2C%20USA-0A0714?style=for-the-badge&labelColor=5B21B6" alt="Region: Midwest, USA">
+<img src="https://img.shields.io/badge/Open%20Source-Advocate-0A0714?style=for-the-badge&logo=opensourceinitiative&logoColor=A78BFA&labelColor=5B21B6" alt="Open source advocate">
 
 </td>
 </tr>
 </table>
----
-
-# Core Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,go,cs,c,dotnet,html,js,php,mysql&theme=dark" alt="Programming Languages and Technologies">
+  <code>UNDERSTAND THE TECHNOLOGY</code> ·
+  <code>UNDERSTAND THE THREAT</code> ·
+  <code>BUILD SOMETHING BETTER</code>
 </p>
 
-<p align="center">
-  <code>BATCH / BASH</code> •
-  <code>PYTHON</code> •
-  <code>GOLANG</code> •
-  <code>C#</code> •
-  <code>C</code> •
-  <code>.NET</code>
-  <br>
-  <code>HTML</code> •
-  <code>JAVASCRIPT</code> •
-  <code>PHP</code> •
-  <code>SQL</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
 
-<details>
-<summary><strong>▸ Technology Focus</strong></summary>
-
-<br>
-
-| Area | Focus |
-|---|---|
-| 🐍 **Python** | Automation, security tooling, scripting, research |
-| ⚙️ **C / C#** | Systems programming, application development, security research |
-| 🔷 **.NET** | Application development, automation, Windows ecosystems |
-| 🐹 **Golang** | High-performance tooling, networking, utilities |
-| 🐚 **Bash / Batch** | Automation, administration, command-line workflows |
-| 🌐 **HTML / JavaScript** | Web technologies, application analysis, development |
-| 🐘 **PHP** | Web development and application security |
-| 🗄️ **SQL** | Databases, data handling, application security |
-
-</details>
-
----
-# Cybersecurity
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SECURITY%20OPERATIONS-07111F?style=for-the-badge&logo=shield&logoColor=22D3EE" alt="Security Operations">
-  <img src="https://img.shields.io/badge/INCIDENT%20RESPONSE-07111F?style=for-the-badge&logo=opsgenie&logoColor=A78BFA" alt="Incident Response">
-  <img src="https://img.shields.io/badge/THREAT%20ANALYSIS-07111F?style=for-the-badge&logo=datadog&logoColor=22D3EE" alt="Threat Analysis">
-  <br>
-  <img src="https://img.shields.io/badge/PENETRATION%20TESTING-07111F?style=for-the-badge&logo=kalilinux&logoColor=A78BFA" alt="Penetration Testing">
-  <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-07111F?style=for-the-badge&logo=hackthebox&logoColor=22D3EE" alt="Security Research">
-  <img src="https://img.shields.io/badge/ETHICAL%20HACKING-07111F?style=for-the-badge&logo=protonvpn&logoColor=A78BFA" alt="Ethical Hacking">
-</p>
-
-### Areas of Interest
-
-- **Security Operations**
-- **Incident Response**
-- **Threat Analysis**
-- **Vulnerability Analysis**
-- **Penetration Testing**
-- **Ethical Hacking**
-- **Security Research**
-- **Security Automation**
-- **Security Tool Development**
-- **Infrastructure & Systems**
-- **Application Security**
-- **Technical Education**
-
----
-# Hack Theory
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07111F,50:111827,100:24104F&height=120&section=header&text=HACK%20THEORY&fontSize=42&fontColor=22D3EE&animation=fadeIn&fontAlignY=55" alt="Hack Theory">
-</p>
-
-## `SIMPLIFYING TECHNOLOGY IN A COMPLICATED WORLD.`
-
-**Hack Theory** is a technology and cybersecurity community built around **learning, experimentation, collaboration, security, software development, and open-source knowledge**.
-
-The goal is simple:
-
-> **Take complicated technology and make it easier to understand.**
-
-Hack Theory is a place for developers, security enthusiasts, system administrators, researchers, students, and technology enthusiasts to exchange ideas, troubleshoot problems, learn new concepts, and build things together.
-
-### 🌐 Join the Community
-
-<p align="center">
-  <a href="https://discord.gg/Zc8hat6Yhm">
-    <img src="https://img.shields.io/badge/JOIN%20HACK%20THEORY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Hack Theory">
-  </a>
-  <a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html">
-    <img src="https://img.shields.io/badge/WEBSITE-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=07111F" alt="Hack Theory Website">
-  </a>
-  <a href="https://www.youtube.com/@hacktheory1337">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Hack Theory YouTube">
-  </a>
-</p>
-
----
-# Community Resources
-
-| Resource | Access |
-|---|---|
-| 💬 **Discord Community** | [Join Hack Theory](https://discord.gg/Zc8hat6Yhm) |
-| 🌐 **Server Website** | [Hack Theory Website](https://hoax-net.github.io/nullpointer-exception-handler/index.html) |
-| ▶️ **YouTube** | [Hack Theory YouTube](https://www.youtube.com/@hacktheory1337) |
-| 📧 **Public Email** | [mhmyct4i2@mozmail.com](mailto:mhmyct4i2@mozmail.com) |
-| 📍 **Location** | Midwest, USA |
-
----
-# Discord
-
-<p align="center">
-  <a href="https://discord.gg/Zc8hat6Yhm">
-    <img src="https://img.shields.io/badge/HACK%20THEORY-Join%20the%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Hack Theory Discord">
-  </a>
-</p>
-
-> **Discord Server:** https://discord.gg/Zc8hat6Yhm  
-> **Discord User ID:** `994501984784756746`
-
-### Discord Widget
-
-GitHub README rendering does not execute arbitrary iframes, but the official Hack Theory widget configuration is preserved here for HTML-supported pages:
-
-```html
-<iframe
-  src="https://discordapp.com/widget?id=1138548626491199519&theme=dark"
-  width="350"
-  height="500"
-  allowtransparency="true"
-  frameborder="0"
-  sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-</iframe>
-```
-
----
-# Open Source
-
-## 🧬 Build. Break. Learn. Share.
-
-Open source has always been one of the most powerful ways to learn technology.
-
-I believe useful knowledge should be shared responsibly. Source code, research, documentation, ideas, experiments, and lessons learned become far more valuable when others can study them, improve them, and build upon them.
-
-My goal is to create and contribute to projects that are:
-
-- 🧠 **Educational**
-- 🔧 **Practical**
-- 🔐 **Security-conscious**
-- 🧩 **Understandable**
-- 🌐 **Accessible**
-- 🚀 **Useful**
-- 📖 **Well documented**
-
-> **If someone can learn something from a project, the project has value.**
-
----
-# GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
-
----
-— GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=blackmagic2023&count_private=true&theme=tokyonight&hide_border=true&border_radius=12" width="430" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blackmagic2023&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" width="430" alt="GitHub Statistics">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackmagic2023&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="350" alt="Top Languages">
-</p>
-
----
-# Responsible Security
-
-> [!IMPORTANT]
-> **Security research should make systems safer — not give people permission to compromise systems they don't own.**
->
-> The tools, source code, techniques, documentation, demonstrations, proof-of-concepts, and security research published through this profile, Hack Theory, or associated projects are intended for **educational, research, defensive-security, and authorized testing purposes**.
-
-> [!WARNING]
-> ### ⚠️ Operator Responsibility
->
-> Any misuse of tools, source code, techniques, exploits, proof-of-concepts, or information is the **sole responsibility of the person operating or deploying them**.
->
-> The creator does **not** authorize unauthorized access, disruption, destruction, data theft, privacy violations, or illegal activity.
->
-> **I accept no liability or responsibility for misuse of any tools, software, techniques, documentation, or information provided through my projects or communities.**
->
-> Users are responsible for complying with all applicable laws, regulations, contracts, policies, and authorization requirements.
-
-> [!CAUTION]
-> ### 🛡️ Test Responsibly
->
-> Only test:
->
-> - Systems you own
-> - Systems you have explicit permission to assess
-> - Authorized laboratory environments
-> - Educational or controlled security-testing environments
-
----
-#  Professional Principles
+## Capabilities
 
 <table>
 <tr>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### 🔐 Security First
+<img src="https://cdn.simpleicons.org/hackthebox/A78BFA" width="34" alt=""><br>
+**Security Operations**
 
-Security should be considered throughout the lifecycle of a system — not bolted on after something goes wrong.
+<sub>Monitoring · Incident Response<br>Threat Analysis · Engineering</sub>
 
 </td>
-<td width="50%">
+<td width="25%" align="center" valign="top">
 
-### 🧠 Understand Before Acting
+<img src="https://cdn.simpleicons.org/python/A78BFA" width="34" alt=""><br>
+**Development**
+
+<sub>Applications · Automation<br>Security Tooling · Scripting</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://cdn.simpleicons.org/wireshark/A78BFA" width="34" alt=""><br>
+**Research**
+
+<sub>Vulnerability Research<br>Authorized Testing · Education</sub>
+
+</td>
+<td width="25%" align="center" valign="top">
+
+<img src="https://cdn.simpleicons.org/opensourceinitiative/A78BFA" width="34" alt=""><br>
+**Community**
+
+<sub>Open Source · Documentation<br>Knowledge Sharing</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,golang,cs,c,dotnet,js,html,php,mysql&theme=dark" alt="Bash, Python, Go, C#, C, .NET, JavaScript, HTML, PHP, SQL">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,kali,docker,git,github,cloudflare,powershell,vscode,nginx&theme=dark" alt="Linux, Windows, Kali, Docker, Git, GitHub, Cloudflare, PowerShell, VS Code, Nginx">
+</p>
+
+<details>
+<summary><strong>Where each one gets used</strong></summary>
+
+<br>
+
+| Technology | Applied To |
+|---|---|
+| <img src="https://cdn.simpleicons.org/python/A78BFA" width="15"> **Python** | Automation, security tooling, scripting, research |
+| <img src="https://cdn.simpleicons.org/c/A78BFA" width="15"> **C / C#** | Systems programming, application development, security research |
+| <img src="https://cdn.simpleicons.org/dotnet/A78BFA" width="15"> **.NET** | Application development, automation, Windows ecosystems |
+| <img src="https://cdn.simpleicons.org/go/A78BFA" width="15"> **Go** | High-performance tooling, networking, utilities |
+| <img src="https://cdn.simpleicons.org/gnubash/A78BFA" width="15"> **Bash / Batch** | Automation, administration, command-line workflows |
+| <img src="https://cdn.simpleicons.org/javascript/A78BFA" width="15"> **HTML / JavaScript** | Web technologies, application analysis, development |
+| <img src="https://cdn.simpleicons.org/php/A78BFA" width="15"> **PHP** | Web development and application security |
+| <img src="https://cdn.simpleicons.org/mysql/A78BFA" width="15"> **SQL** | Databases, data handling, application security |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Security Domains
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Security%20Operations-0A0714?style=for-the-badge&logo=splunk&logoColor=A78BFA&labelColor=05040A" alt="Security operations">
+  <img src="https://img.shields.io/badge/Incident%20Response-0A0714?style=for-the-badge&logo=elastic&logoColor=A78BFA&labelColor=05040A" alt="Incident response">
+  <img src="https://img.shields.io/badge/Threat%20Analysis-0A0714?style=for-the-badge&logo=wireshark&logoColor=A78BFA&labelColor=05040A" alt="Threat analysis">
+  <br>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-0A0714?style=for-the-badge&logo=kalilinux&logoColor=A78BFA&labelColor=05040A" alt="Penetration testing">
+  <img src="https://img.shields.io/badge/Security%20Research-0A0714?style=for-the-badge&logo=hackthebox&logoColor=A78BFA&labelColor=05040A" alt="Security research">
+  <img src="https://img.shields.io/badge/Application%20Security-0A0714?style=for-the-badge&logo=owasp&logoColor=A78BFA&labelColor=05040A" alt="Application security">
+  <br>
+  <img src="https://img.shields.io/badge/Security%20Automation-0A0714?style=for-the-badge&logo=githubactions&logoColor=A78BFA&labelColor=05040A" alt="Security automation">
+  <img src="https://img.shields.io/badge/Infrastructure-0A0714?style=for-the-badge&logo=linux&logoColor=A78BFA&labelColor=05040A" alt="Infrastructure and systems">
+  <img src="https://img.shields.io/badge/Technical%20Education-0A0714?style=for-the-badge&logo=markdown&logoColor=A78BFA&labelColor=05040A" alt="Technical education">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Systems
+
+<table>
+<tr>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/Hoax-Net/Hoax-Net/main/assets/home-lab-pack.png" width="380" alt="Layered system architecture: presentation, network, and infrastructure">
+
+</td>
+<td width="55%" valign="top">
+
+**Security is a property of the whole stack.**
+
+Understanding a system means understanding every layer it stands on — what the user
+touches, what moves the traffic, and what actually runs the workload. The interesting
+weaknesses tend to live in the seams between them.
+
+| Layer | Scope |
+|---|---|
+| `01` **Presentation** | Interfaces, endpoints, user access |
+| `02` **Network** | Routing, segmentation, security controls |
+| `03` **Infrastructure** | Compute, storage, services, data |
+
+<sub>Built and tested in an authorized lab environment — the fastest way to learn how
+something fails is to own the system it fails on.</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Community
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### Hack Theory
+
+A technology and cybersecurity community built around learning, experimentation,
+collaboration, and open-source knowledge.
+
+> **Take complicated technology and make it easier to understand.**
+
+A place for developers, security enthusiasts, administrators, researchers, and students
+to exchange ideas, troubleshoot problems, and build things together.
+
+<a href="https://discord.gg/Zc8hat6Yhm"><img src="https://img.shields.io/badge/Join%20the%20Server-7C3AED?style=for-the-badge&logo=discord&logoColor=EDE9FE&labelColor=5B21B6" alt="Join the Discord server"></a>
+<a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html"><img src="https://img.shields.io/badge/Visit%20Site-0A0714?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=05040A" alt="Visit the website"></a>
+<a href="https://www.youtube.com/@hacktheory1337"><img src="https://img.shields.io/badge/Watch-0A0714?style=for-the-badge&logo=youtube&logoColor=A78BFA&labelColor=05040A" alt="Watch on YouTube"></a>
+
+<a href="https://discord.gg/Zc8hat6Yhm"><img src="https://img.shields.io/discord/1138548626491199519?style=flat-square&logo=discord&logoColor=A78BFA&label=online%20now&labelColor=05040A&color=7C3AED" alt="Members online now"></a>
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<a href="https://discord.gg/Zc8hat6Yhm"><img src="https://discord.com/api/guilds/1138548626491199519/widget.png?style=banner2" alt="Hack Theory Discord server"></a>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Open Source
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Build. Break. Learn. Share.
+
+Open source has always been one of the most powerful ways to learn technology.
+
+Useful knowledge should be shared responsibly. Source code, research, documentation,
+and lessons learned become far more valuable when others can study them, improve them,
+and build on them.
+
+> **If someone can learn something from a project, the project has value.**
+
+</td>
+<td width="50%" valign="top">
+
+**Every project should be:**
+
+<img src="https://img.shields.io/badge/Educational-0A0714?style=flat-square&labelColor=5B21B6" alt="Educational">
+<img src="https://img.shields.io/badge/Practical-0A0714?style=flat-square&labelColor=5B21B6" alt="Practical">
+<img src="https://img.shields.io/badge/Security%20Conscious-0A0714?style=flat-square&labelColor=5B21B6" alt="Security conscious">
+<br>
+<img src="https://img.shields.io/badge/Understandable-0A0714?style=flat-square&labelColor=5B21B6" alt="Understandable">
+<img src="https://img.shields.io/badge/Accessible-0A0714?style=flat-square&labelColor=5B21B6" alt="Accessible">
+<img src="https://img.shields.io/badge/Well%20Documented-0A0714?style=flat-square&labelColor=5B21B6" alt="Well documented">
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Hoax-Net&show_icons=true&count_private=true&hide_border=true&rank_icon=github&bg_color=0A0714&title_color=A78BFA&icon_color=7C3AED&text_color=C9C9D4" width="49%" alt="GitHub statistics">
+  <img src="https://streak-stats.demolab.com/?user=Hoax-Net&hide_border=true&background=0A0714&stroke=1E1B2E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9C9D4&currStreakNum=EDE9FE&sideNums=EDE9FE&dates=8B8B9E" width="49%" alt="Contribution streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hoax-Net&bg_color=0A0714&color=EDE9FE&line=7C3AED&point=A78BFA&area=true&area_color=42007C&title_color=A78BFA&hide_border=true" width="98%" alt="Contribution activity graph">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Hoax-Net&layout=compact&langs_count=8&hide_border=true&bg_color=0A0714&title_color=A78BFA&text_color=C9C9D4" width="46%" alt="Most used languages">
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Principles
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Security First
+
+Security should be considered throughout the lifecycle of a system — not bolted on
+after something goes wrong.
+
+</td>
+<td width="50%" valign="top">
+
+### Understand Before Acting
 
 Understanding how something works is more valuable than blindly following a procedure.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Research Responsibly
+### Research Responsibly
 
 Curiosity drives security research. Responsibility determines how that research is used.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Share Knowledge
+### Share Knowledge
 
-The security community becomes stronger when useful information, lessons, and tools are shared responsibly.
+The community becomes stronger when useful information, lessons, and tools are shared
+responsibly.
 
 </td>
 </tr>
 </table>
 
----
-#  Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
 
-<p align="center">
-  <a href="mailto:mhmyct4i2@mozmail.com">
-    <img src="https://img.shields.io/badge/PUBLIC%20EMAIL-22D3EE?style=for-the-badge&logo=maildotru&logoColor=07111F" alt="Public Email">
-  </a>
-  <a href="https://discord.gg/Zc8hat6Yhm">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://www.youtube.com/@hacktheory1337">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html">
-    <img src="https://img.shields.io/badge/HACK%20THEORY-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hack Theory Website">
-  </a>
-</p>
-
----
-# — Contact
-
-```text
-PUBLIC EMAIL
-└── mhmyct4i2@mozmail.com
-
-COMMUNITY
-└── Hack Theory Discord
-
-DISCORD USER ID
-└── 994501984784756746
-
-LOCATION
-└── Midwest, USA
-```
-
----
-#  Hack Theory Quick Links
-
-<p align="center">
-
-| 🟣 Discord | 🔵 Website | 🔴 YouTube |
-|:---:|:---:|:---:|
-| [Join Hack Theory](https://discord.gg/Zc8hat6Yhm) | [Visit Website](https://hoax-net.github.io/nullpointer-exception-handler/index.html) | [Watch YouTube](https://www.youtube.com/@hacktheory1337) |
-
-</p>
-
----
-#  Community Philosophy
-
-<p align="center">
-
-### `LEARN`
-
-Understand the technology.
-
-↓
-
-### `EXPLORE`
-
-Question how it works.
-
-↓
-
-### `BUILD`
-
-Create useful solutions.
-
-↓
-
-### `SHARE`
-
-Give knowledge back to the community.
-
-</p>
-
----
-
-> [!TIP]
-> **The best security professionals never stop learning.**
->
-> Technology changes. Threats evolve. New vulnerabilities appear. Defensive techniques improve.
->
-> Stay curious. Stay skeptical. Keep learning.
-
----
-#  Hack Theory
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/98244080-f8e6-4228-8782-9f2e8b00142d" alt="Hack Theory Cybersecurity" width="900">
-</p>
-
-<p align="center">
-  <strong>HACK THEORY</strong>
-  <br><br>
-  <code>CYBERSECURITY</code> •
-  <code>DEVELOPMENT</code> •
-  <code>RESEARCH</code> •
-  <code>OPEN SOURCE</code>
-  <br><br>
-  <em>Simplifying Technology in a Complicated World.</em>
-</p>
-
----
-#  Profile Metrics
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blackmagic2023&style=for-the-badge&color=22d3a6&label=PROFILE+VIEWS" alt="Profile Views">
-</p>
-
----
-#  Final Message
-
-<p align="center">
-
-### 🟦 BUILD WITH PURPOSE
-### 🟪 RESEARCH WITH RESPONSIBILITY
-### 🟦 SHARE WHAT YOU LEARN
-### 🟪 MAKE TECHNOLOGY BETTER
-
-</p>
-
-<p align="center">
-  <blockquote>
-    <strong>Technology is complicated. Understanding it doesn't have to be.</strong>
-  </blockquote>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0B0714&height=160&section=footer&animation=fadeIn" width="100%" alt="Hack Theory Footer">
-</p>
-
-<h2 align="center">
-  <code>KEEP LEARNING. KEEP BUILDING. KEEP QUESTIONING.</code>
-</h2>
-
-<p align="center">
-  <strong>HACK THEORY</strong>
-  <br>
-  <em>Simplifying Technology in a Complicated World.</em>
-</p>
-
----
-#  Profile Information
-
-| Field | Information |
-|---|---|
-| 👤 **Name / Handle** | **blackmagic** |
-| 💼 **Professional Role** | **Cybersecurity Operations Manager** |
-| 🧠 **Technical Experience** | **17 years** |
-| 📍 **Location** | **Midwest, USA** |
-| 🆔 **Discord User ID** | `994501984784756746` |
-| 📧 **Public Email** | [mhmyct4i2@mozmail.com](mailto:mhmyct4i2@mozmail.com) |
-| 💬 **Community** | [Hack Theory Discord](https://discord.gg/Zc8hat6Yhm) |
-| 🌐 **Server Website** | [Hack Theory](https://hoax-net.github.io/nullpointer-exception-handler/index.html) |
-| ▶️ **Server YouTube** | [Hack Theory YouTube](https://www.youtube.com/@hacktheory1337) |
-| 🖼️ **Profile Banner** | Hack Theory supplied GitHub user attachment |
-| 🖼️ **Profile Image** | blackmagic supplied GitHub user attachment |
-| 🖼️ **Hack Theory Image** | Hack Theory supplied GitHub user attachment |
-
----
-#  Official Links
-
-```text
-HACK THEORY DISCORD
-https://discord.gg/Zc8hat6Yhm
-
-HACK THEORY WEBSITE
-https://hoax-net.github.io/nullpointer-exception-handler/index.html
-
-HACK THEORY YOUTUBE
-https://www.youtube.com/@hacktheory1337
-
-PUBLIC EMAIL
-mhmyct4i2@mozmail.com
-
-DISCORD USER ID
-994501984784756746
-
-DISCORD WIDGET
-https://discordapp.com/widget?id=1138548626491199519&theme=dark
-```
-
----
-# Responsible Use Reminder
+## Responsible Use
 
 > [!IMPORTANT]
-> ### 🔐 Authorized Use Only
+> **Security research should make systems safer — not give people permission to
+> compromise systems they don't own.**
 >
-> Security tools, scripts, exploits, demonstrations, proof-of-concepts, research, and technical information should only be used in environments where you have explicit authorization.
->
-> **Unauthorized access, disruption, destruction, data theft, credential abuse, privacy violations, or other unlawful activity is not authorized by the creator.**
+> Tools, source code, techniques, documentation, demonstrations, proof-of-concepts, and
+> research published through this profile or associated projects are intended for
+> **educational, research, defensive-security, and authorized testing purposes**.
 
-> [!WARNING]
-> ### ⚠️ Operator Responsibility
->
-> Any misuse of tools, software, source code, techniques, or information is solely the responsibility of the person using or operating them.
->
-> **The creator accepts no liability for misuse, damage, loss, disruption, unauthorized access, or any consequences resulting from the use of material provided through this profile, Hack Theory, or associated projects.**
+<details>
+<summary><strong>Operator responsibility and testing scope</strong></summary>
 
-> [!CAUTION]
-> ### 🛡️ Test Responsibly
+<br>
+
+> **Operator Responsibility**
 >
-> Only test:
+> Any misuse of tools, source code, techniques, exploits, proof-of-concepts, or
+> information is the **sole responsibility of the person operating or deploying them**.
+>
+> The creator does **not** authorize unauthorized access, disruption, destruction, data
+> theft, privacy violations, or illegal activity, and accepts no liability for misuse of
+> any material provided through these projects or communities.
+>
+> Users are responsible for complying with all applicable laws, regulations, contracts,
+> policies, and authorization requirements.
+
+> **Test Responsibly** — only test:
 >
 > - Systems you own
 > - Systems you have explicit permission to assess
 > - Authorized laboratory environments
 > - Educational or controlled security-testing environments
 
----
-# Thank You
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05040A,50:7C3AED,100:05040A&height=4" width="100%" alt="">
+
+## Contact
 
 <p align="center">
-
-Thank you for stopping by.
-
-<br><br>
-
-Whether you're here to explore a project, learn something new, collaborate on an idea, improve your security knowledge, or simply see what I'm building —
-
-<h2>Welcome to Hack Theory.</h2>
-
+  <a href="mailto:mhmyct4i2@mozmail.com"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=maildotru&logoColor=EDE9FE&labelColor=5B21B6" alt="Email"></a>
+  <a href="https://discord.gg/Zc8hat6Yhm"><img src="https://img.shields.io/badge/Discord-0A0714?style=for-the-badge&logo=discord&logoColor=A78BFA&labelColor=05040A" alt="Discord"></a>
+  <a href="https://www.youtube.com/@hacktheory1337"><img src="https://img.shields.io/badge/YouTube-0A0714?style=for-the-badge&logo=youtube&logoColor=A78BFA&labelColor=05040A" alt="YouTube"></a>
+  <a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html"><img src="https://img.shields.io/badge/Website-0A0714?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=05040A" alt="Website"></a>
+  <a href="https://github.com/Hoax-Net?tab=repositories"><img src="https://img.shields.io/badge/Repositories-0A0714?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=05040A" alt="Repositories"></a>
 </p>
 
 <p align="center">
-  <code>CYBERSECURITY</code> •
-  <code>SOFTWARE DEVELOPMENT</code> •
-  <code>SECURITY RESEARCH</code> •
-  <code>OPEN SOURCE</code>
+  <img src="https://komarev.com/ghpvc/?username=Hoax-Net&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
 <p align="center">
-  <strong>— blackmagic</strong>
+  <sub><strong>Technology is complicated. Understanding it doesn't have to be.</strong></sub>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05040A,50:42007C,100:7C3AED&height=140&section=footer&animation=fadeIn" width="100%" alt="">
 
 <p align="center">
-
-<a href="https://discord.gg/Zc8hat6Yhm">
-  <img src="https://img.shields.io/badge/JOIN%20HACK%20THEORY-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Hack Theory Discord">
-</a>
-
-<a href="https://www.youtube.com/@hacktheory1337">
-  <img src="https://img.shields.io/badge/SUBSCRIBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Hack Theory YouTube">
-</a>
-
-<a href="mailto:mhmyct4i2@mozmail.com">
-  <img src="https://img.shields.io/badge/CONTACT-22D3EE?style=for-the-badge&logo=maildotru&logoColor=07111F" alt="Contact">
-</a>
-
-<a href="https://hoax-net.github.io/nullpointer-exception-handler/index.html">
-  <img src="https://img.shields.io/badge/VISIT%20HACK%20THEORY-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hack Theory Website">
-</a>
-
-</p>
-
----
- Final Statement
-
-<p align="center">
-
-> **Learn the technology.**
->
-> **Understand the threat.**
->
-> **Build the solution.**
->
-> **Share the knowledge.**
-
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:7C3AED,100:0B0714&height=160&section=footer&animation=fadeIn" width="100%" alt="Hack Theory Footer">
-</p>
-
-<h2 align="center">
-  <code>KEEP LEARNING. KEEP BUILDING. KEEP QUESTIONING.</code>
-</h2>
-
-<p align="center">
-  <strong>HACK THEORY</strong>
+  <img src="https://raw.githubusercontent.com/Hoax-Net/Hoax-Net/main/assets/purple%20logo.png" width="42" alt="">
   <br>
-  <em>Simplifying Technology in a Complicated World.</em>
+  <strong>blackmagic</strong>
+  <br>
+  <sub><code>LEARN</code> · <code>EXPLORE</code> · <code>BUILD</code> · <code>SHARE</code></sub>
 </p>
-
----
-
-<!--
-===============================================================
-HACK THEORY
-SIMPLIFYING TECHNOLOGY IN A COMPLICATED WORLD.
-===============================================================
-
-OFFICIAL COMMUNITY
-
-Discord:
-https://discord.gg/Zc8hat6Yhm
-
-Website:
-https://hoax-net.github.io/nullpointer-exception-handler/index.html
-
-YouTube:
-https://www.youtube.com/@hacktheory1337
-
-Public Email:
-mhmyct4i2@mozmail.com
-
-Discord User ID:
-994501984784756746
-
-Discord Widget:
-https://discordapp.com/widget?id=1138548626491199519&theme=dark
-
-RESPONSIBLE USE
-
-All software, tools, scripts, security research, proof-of-concepts,
-documentation, and educational material are provided for lawful,
-educational, defensive, research, and authorized testing purposes.
-
-The creator does not authorize unauthorized access, disruption,
-destruction, credential theft, data theft, privacy violations,
-or unlawful activity.
-
-Any misuse is solely the responsibility of the operator.
-
-The creator accepts no liability for any damage, loss, disruption,
-unauthorized access, legal consequences, or other results arising
-from misuse of the material.
-
-Always obtain explicit authorization before testing systems,
-networks, applications, accounts, devices, or infrastructure.
-
-===============================================================
--->
